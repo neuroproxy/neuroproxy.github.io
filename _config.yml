@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: neuroproxy
+description: "Un viaje hacia las configuraciones desestructuradas en el metaverso"
 author:
-  name: "SomeHacker"
+  name: "neuroproxy"
   email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://neuroproxy.github.io/hacker-blog"
 
 baseurl: /
 
