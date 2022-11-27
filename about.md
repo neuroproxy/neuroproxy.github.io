@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Un viaje hacia las configuraciones desestructuradas en este pequeño metaverso de tecnologias donde realizo write-ups de los conocimientos adquiridos 
